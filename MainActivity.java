@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener{
     public void onClick(View V) {
         switch(V.getId()){
             case R.id.btn_1:
-                txt_inicial.setText("Usaste boton 1");
+                txt_inicial.setText("Usaste boton Yoc");
                 break;
             case R.id.btn_2:
                 txt_inicial.setText("Usaste boton 2");
